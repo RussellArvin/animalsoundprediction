@@ -2,7 +2,7 @@
 
 ## Team Members
 - Russell Arvin [GitHub](https://github.com/RussellArvin)
-- Leanne Yeong [GitHub](https://github.com/sockgothole)
+- Leanne Yeong [GitHub](https://github.com/leanneyeong)
 - Koh Jia Jun [GitHub](https://github.com/kohjiajun)
 
 ## Overview
